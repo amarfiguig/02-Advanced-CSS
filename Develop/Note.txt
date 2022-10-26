@@ -1,0 +1,23 @@
+
+
+Hello
+
+The site is not complete
+With the help of distinguished professors and learning via the Internet
+This site was created and built by a student at the University of Birmingham studying coding
+
+Please point me to the errors and help in solving them, I am still learning
+
+Best Regards
+
+
++
++
++
+
+--It took about two days to write, search, copy and debug, it still needs work, checking, and deleting some frozen code
+I have a problem with the "navbar" I'm trying to route and debug.
+Note: The current form of the site is the interface to be accessed. There are only some revisions, correction of codes and their arrangement, and overcoming some problems.
+Here a lot of unwanted code has been added for the purpose of tabs and creating other paths for the aesthetic of the site. 
+Please ignore it, as it has no role in the site after deleting some branches.
+I apologize for the lack of order and signaling in the codes I will fixed  soon as possible.--
