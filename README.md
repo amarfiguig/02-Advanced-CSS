@@ -44,4 +44,4 @@ The following animation shows my web application's appearance and functionality:
 
 ## License
 
-NA
+© 2022 AA
