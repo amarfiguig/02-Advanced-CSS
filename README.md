@@ -37,7 +37,7 @@ Please ignore it, as it has no role in the site after deleting some branches.
 
 ## Link of the portfolio
 
-<a href="https://amarfiguig.github.io/02-Advanced-CSS/">Link of the Quiz</a>
+<a href="https://amarfiguig.github.io/02-Advanced-CSS/">Link of the portfolio</a>
 
 
 ## Portfolio
