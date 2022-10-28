@@ -44,7 +44,9 @@ Please ignore it, as it has no role in the site after deleting some branches.
 
 The following animation shows my web application's appearance and functionality:
 
-![portfolio demo](https://github.com/amarfiguig/02-Advanced-CSS/blob/main/Develop/images/portfolio%20demo.gif)
+## Picture of the finished work 
+
+![Picture of Portfolio](https://github.com/amarfiguig/02-Advanced-CSS/blob/main/Develop/images/portfolio%20demo.gif)
 
 ## License
 
