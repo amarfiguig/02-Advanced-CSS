@@ -35,6 +35,10 @@ Note: The current form of the site is the interface to be accessed. There are on
 Here a lot of unwanted code has been added for the purpose of tabs and creating other paths for the aesthetic of the site. 
 Please ignore it, as it has no role in the site after deleting some branches.
 
+## Link of the portfolio
+
+<a href="https://amarfiguig.github.io/02-Advanced-CSS/">Link of the Quiz</a>
+
 
 ## Portfolio
 
