@@ -173,3 +173,47 @@ footer {
     color: #fff;
     text-align: center;
 }
+
+/* Custom styles */
+
+body {
+    text-align: center;
+    color: #333;
+}
+
+header {
+    background-color: #ccc;
+}
+
+nav a {
+    color: #fff;
+    background-color: #333;
+}
+
+nav a:hover {
+    background-color: #fff;
+    color: #333;
+}
+
+#hero {
+    background-color: #333;
+}
+
+#hero h1 {
+    color: #fff;
+}
+
+#projects li {
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+#projects h3 {
+    color: #333;
+}
+
+button[type="submit"] {
+    background-color: #fff;
+    color: #333;
+}
